@@ -4,7 +4,7 @@ import Login from './pages/Login'
 import Signup from './pages/Signup'
 import { Routes,Route } from 'react-router-dom'
 import Product from './pages/Product'
-import ProductDetails from './pages/Productdetails'
+import ProductDetails from './pages/ProductDetails'
 
 
 const App = () => {
